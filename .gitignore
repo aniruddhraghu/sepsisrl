@@ -1,3 +1,11 @@
+# Generated save files
+continuous/dqn_normal*
+continuous/sarsa_phys
+eval/env_model_regression
+eval/eval_policy
+*.csv
+*.p
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
