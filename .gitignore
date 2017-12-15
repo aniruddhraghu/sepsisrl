@@ -5,6 +5,30 @@ eval/env_model_regression
 eval/eval_policy
 *.csv
 *.p
+*.pkl
+*.npy
+modelbased/behaviour_clone/
+modelbased/behaviour_clone_data/
+modelbased/converted_data/
+modelbased/env_model_reg/
+modelbased/env_model_rnn/
+modelbased/log/
+modelbased/recurrent_data/
+new_eval_work/MixNN_EM/
+new_eval_work/env_model_regression/
+new_eval_work/eval_policy/
+new_eval_work/mix_density_model/
+new_eval_work/mixnn_em_data/
+policy_search_bb-alpha/environment/eval_pol.py
+policy_search_bb-alpha/environment/make_bnn_data_unscaled.ipynb
+policy_search_bb-alpha/environment/make_data.py
+policy_search_bb-alpha/environment/out/
+policy_search_bb-alpha/experiments/bnn_visualise_expt.ipynb
+policy_search_bb-alpha/experiments/controller/
+policy_search_bb-alpha/experiments/models/
+policy_search_bb-alpha/experiments/train_model_unscaled.py
+preprocessing/save_mean_stddev.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
